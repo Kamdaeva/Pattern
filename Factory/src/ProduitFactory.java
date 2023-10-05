@@ -12,7 +12,7 @@ case TYPE_PRODUITA2:
 produitA = new ProduitA2 ();
 break;
 case TYPE_PRODUITA3:
-produitA = new ProduitA3 ();
+produitA = new ProduitA2 ();
 break;
 default:
 throw new IllegalArgumentException ("Type de produit inconnu");
