@@ -1,4 +1,4 @@
-public abstract class ProduitFactory {
+public abstract class ProduitFactory{
     public Produita getProduita() {
         return createProduita();
     }
