@@ -1,13 +1,13 @@
 public class DList {
-    private DNode head; 
-    private DNode tail;
+    // private DNode head; 
+    // private DNode tail;
 
 
-    public DList() {
+    // public DList() {
         
-        head = null;
-        tail = null;
-    }
+    //     head = null;
+    //     tail = null;
+    // }
 
     public void insert (DNode pos, Object o){}
     public void remove (DNode pos){}
